@@ -11,3 +11,4 @@ services:
     volumes:
       - bma_data:/var/lib/postgresql/data
 volumes:
+  bma_data:
